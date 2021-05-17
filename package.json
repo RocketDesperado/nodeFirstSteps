@@ -1,0 +1,27 @@
+{
+  "name": "node-firststep",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "author": "Sergey Sudar",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {
+    "@angular/common": "~12.0.0",
+    "@angular/compiler": "~12.0.0",
+    "@angular/core": "~12.0.0",
+    "@angular/forms": "~12.0.0",
+    "@angular/platform-browser": "~12.0.0",
+    "@angular/platform-browser-dynamic": "~12.0.0",
+    "@angular/router": "~12.0.0",
+    "nodemon": "^2.0.7",
+    "react": "^17.0.2"
+  }
+}
