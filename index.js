@@ -66,7 +66,6 @@ server.listen(3000, () => {
     console.log("Server has started")
 })
 
-
 //const chalk = require('chalk')
 //const dataJs = require('./data')
 //console.log(chalk.blue ('Hello NodeJS and Sergey') +"\n" +chalk.red(dataJs))
